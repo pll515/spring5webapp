@@ -18,6 +18,9 @@ public class Publisher {
         this.name = name;
         this.address = address;
     }
+    public Publisher(){
+        
+    }
 
     public Long getId() {
         return id;
